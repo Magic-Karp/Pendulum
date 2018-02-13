@@ -1,0 +1,3 @@
+https://www.arduino.cc/en/tutorial/potentiometer
+https://playground.arduino.cc/Main/RotaryEncoders
+http://howtomechatronics.com/tutorials/arduino/rotary-encoder-works-use-arduino/
